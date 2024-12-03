@@ -55,3 +55,4 @@ Evaluation was performed using BERT and RoBERTa:
   - NumPy
   - Matplotlib and Seaborn
 - **Hardware**: GPU for accelerated model training
+- ## Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
